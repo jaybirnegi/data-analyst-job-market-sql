@@ -9,15 +9,18 @@ The analysis was performed entirely in MySQL using multi-table joins, aggregatio
 
 ## Dataset Structure
 
-The database consists of four primary tables:
+The analysis is built on a normalized relational schema:
 
-- job_postings_fact  
-- company_dim  
-- skills_dim  
-- skills_job_dim  
+| Table Name            | Description |
+|-----------------------|------------|
+| job_postings_fact     | Core job posting data including title, location, and salary |
+| company_dim           | Company information linked to job postings |
+| skills_dim            | Master list of technical skills |
+| skills_job_dim        | Bridge table connecting jobs to required skills |
 
-These tables were joined to analyze how specific skills relate to job demand and salary outcomes.
+The schema enables multi-table joins to analyze how specific skills influence demand and salary.
 
+---
 
 ## Analytical Focus
 
