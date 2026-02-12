@@ -6,6 +6,7 @@ The project explores salary trends, skill demand, and the relationship between r
 
 The analysis was performed entirely in MySQL using multi-table joins, aggregations, filtering, and Common Table Expressions (CTEs).
 
+---
 
 ## Dataset Structure
 
@@ -22,15 +23,14 @@ The schema enables multi-table joins to analyze how specific skills influence de
 
 ---
 
-## Analytical Focus
+## Key Business Questions
 
-The project answers the following:
-
-- Which Data Analyst roles offer the highest salaries?
+- What are the highest paying Data Analyst roles?
 - Which skills are most frequently required?
 - Which skills are associated with higher average salaries?
-- Which skills provide both strong demand and strong compensation?
-
+- Which skills offer both high demand and strong compensation?
+- 
+---
 
 ## Top Skills by Demand
 
@@ -43,6 +43,7 @@ Visualization tools such as Tableau and Power BI also show consistent demand.
 
 This indicates that foundational data querying and reporting skills remain central to the role.
 
+---
 
 ## Top Paying Skills
 
@@ -52,6 +53,7 @@ This indicates that foundational data querying and reporting skills remain centr
 Specialized technical skills show higher average salary ranges.  
 Advanced and niche technologies tend to correlate with stronger compensation compared to general analytical tools.
 
+---
 
 ## Demand vs Salary Comparison
  
@@ -62,6 +64,18 @@ When comparing demand and salary together, core analytical skills dominate in vo
 
 This comparison highlights the distinction between high-frequency skills and high-compensation skills.
 
+---
+
+## Summary of Findings
+
+| Category                  | Insight |
+|---------------------------|---------|
+| Highest Demand Skill      | SQL |
+| Core Analyst Stack        | SQL, Excel, Python |
+| Salary-Driven Skills      | Advanced and specialized technologies |
+| Market Pattern            | Foundational skills dominate demand; niche tools influence salary |
+
+---
 
 ## SQL Techniques Applied
 
@@ -73,12 +87,14 @@ This comparison highlights the distinction between high-frequency skills and hig
 - Common Table Expressions (CTEs)  
 - Demand and compensation comparison  
 
+---
 
 ## Conclusion
 
-The analysis shows a clear separation between foundational skills that drive demand and specialized technologies that influence salary levels.
+The analysis identifies a clear market structure within Data Analyst roles:
 
-SQL, Excel, and Python form the base requirements for Data Analyst roles, while advanced technical tools tend to increase compensation potential.
+- Core data querying and reporting tools are essential across most positions.
+- Advanced technical skills influence earning potential.
+- Skill demand and salary value operate on different dimensions.
 
-This project demonstrates structured relational analysis using SQL to extract actionable insights from job market data.
-
+This project demonstrates practical application of SQL for relational analysis, salary aggregation, and skill-based market evaluation.
