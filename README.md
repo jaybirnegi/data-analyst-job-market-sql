@@ -31,7 +31,8 @@ The project answers the following:
 
 ## Top Skills by Demand
 
-![Top Skills by Demand] <img width="630" height="470" alt="output" src="https://github.com/user-attachments/assets/bdbe0391-10b7-4694-940c-3a2d82124da1" />
+![Top Skills by Demand] 
+<img width="630" height="470" alt="output" src="https://github.com/user-attachments/assets/bdbe0391-10b7-4694-940c-3a2d82124da1" />
 
 
 SQL is the most frequently requested skill in Data Analyst roles.  
@@ -43,7 +44,8 @@ This indicates that foundational data querying and reporting skills remain centr
 
 ## Top Paying Skills
 
-![Top Paying Skills] <img width="3000" height="1800" alt="top_paying_skills" src="https://github.com/user-attachments/assets/4f848e9a-5e44-4210-be09-f8ee2152f281" />
+![Top Paying Skills] 
+<img width="3000" height="1800" alt="top_paying_skills" src="https://github.com/user-attachments/assets/4f848e9a-5e44-4210-be09-f8ee2152f281" />
 
 
 Specialized technical skills show higher average salary ranges.  
@@ -52,7 +54,8 @@ Advanced and niche technologies tend to correlate with stronger compensation com
 
 ## Demand vs Salary Comparison
 
-![Optimal Skills by Demand] <img width="3000" height="1800" alt="optimal_skills_demand" src="https://github.com/user-attachments/assets/41d98552-9518-456a-aa8f-03b4b52dbc2e" />
+![Optimal Skills by Demand] 
+<img width="3000" height="1800" alt="optimal_skills_demand" src="https://github.com/user-attachments/assets/41d98552-9518-456a-aa8f-03b4b52dbc2e" />
 
 
 When comparing demand and salary together, core analytical skills dominate in volume, while specialized technologies influence earning potential.
