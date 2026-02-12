@@ -31,7 +31,7 @@ The project answers the following:
 
 ## Top Skills by Demand
 
-<img width="630" height="470" alt="output" src="https://github.com/user-attachments/assets/bdbe0391-10b7-4694-940c-3a2d82124da1" />
+<img width="2352" height="1770" alt="top_skills_demand" src="https://github.com/user-attachments/assets/38447194-e6a5-48c8-8ee4-ee5f85919bdc" />
 
 
 SQL is the most frequently requested skill in Data Analyst roles.  
